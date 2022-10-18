@@ -1,0 +1,6 @@
+.kms-ds-header-menu {
+    background-color: rgb(255,255,255) !important;}
+	
+.kms-ds-header-menu a {
+    color: rgb(0,0,0) !important;}
+	
